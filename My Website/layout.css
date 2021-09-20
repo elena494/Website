@@ -1,0 +1,25 @@
+
+h1{font-size: 36px; color: rgb(75, 61, 61); text-align: left; font-weight: bold; padding-top: 6px; padding-left: 20px;}
+#paragraph1{text-align: center; padding-right: 20px; padding-left: 50px; padding-top: 50px;}
+#paragraph4{text-align: center;}
+#paragraph3{padding-top:60px;}
+body 
+
+div#container 
+{
+width: 1000px;
+margin: 0px auto;}
+
+div#header {width: 1000px; height: 100px; background-color: rgb(221, 207, 209);}
+
+div#logo {width: 200px; height: 100px; float: left; background-color: rgb(228, 188, 181);}
+
+div#title {width: 796px; height: 100px; float: left;}
+
+div#left-navigation {border: dotted 2px; color:rgb(141, 79, 88); height: 500px; width: 200px; background-color:rgb(221, 207, 209); float: left;}
+
+div#right-navigation {border: dotted 2px; color:rgb(141, 79, 88); height: 500px; width: 200px; background-color:rgb(221, 207, 209); float: right;}
+
+div#main-content {height: 500px; width: 796px; background-color:white; float: center;}
+
+div#footer {width: 1000px; height:150px; background-color:rgb(172, 138, 143);}
